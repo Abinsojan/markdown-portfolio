@@ -1,1 +1,1 @@
-I like to **CODE** and i **teach** other student.
+I like to **CODE** and i  _teach_ other student.
